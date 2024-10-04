@@ -1,0 +1,1 @@
+module.exports = `mongodb+srv://admin:admin@nodemongo.rckl4.mongodb.net/`
